@@ -1,0 +1,138 @@
+Log opened at 2018-04-21 23:36:12
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:36:12
+
+Log opened at 2018-04-21 23:37:23
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:37:23
+
+Log opened at 2018-04-21 23:37:27
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:37:27
+
+Log opened at 2018-04-21 23:39:13
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:39:13
+
+Log opened at 2018-04-21 23:39:18
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:39:18
+
+Log opened at 2018-04-21 23:39:25
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:39:25
+
+Log opened at 2018-04-21 23:41:39
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:41:39
+
+Log opened at 2018-04-21 23:43:30
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:43:30
+
+Log opened at 2018-04-21 23:43:34
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:43:34
+
+Log opened at 2018-04-21 23:46:33
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-21 23:46:33
+
+Log opened at 2018-04-22 00:16:50
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 00:16:50
+
+Log opened at 2018-04-22 00:25:58
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 00:25:58
+
+Log opened at 2018-04-22 00:25:58
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 00:25:58
+
+Log opened at 2018-04-22 00:25:59
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 00:25:59
+
+Log opened at 2018-04-22 00:29:04
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 00:29:04
+
+Log opened at 2018-04-22 00:42:53
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 00:42:53
+
+Log opened at 2018-04-22 00:48:28
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 00:48:28
+
+Log opened at 2018-04-22 00:48:50
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 00:48:50
+
+Log opened at 2018-04-22 11:38:34
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 11:38:34
+
+Log opened at 2018-04-22 12:14:38
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 12:14:38
+
+Log opened at 2018-04-22 12:14:39
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 12:14:39
+
+Log opened at 2018-04-22 12:31:54
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 12:31:54
+
+Log opened at 2018-04-22 16:20:06
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+E: Could not connect to client. :-(
+Log closed at 2018-04-22 16:20:06
+

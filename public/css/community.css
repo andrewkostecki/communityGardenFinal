@@ -1,0 +1,17 @@
+/**
+
+CSS related to the comuunity page
+
+*/
+
+.communityNoteImage {
+    width: 300px;
+    height: 300px;
+
+}
+
+.communityNoteUserImage {
+    width: 30px;
+    height: 30px;
+
+}
