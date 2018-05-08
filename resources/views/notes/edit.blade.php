@@ -43,6 +43,7 @@
                             </div>
                         </div>
 
+                        @if(Request::is('*/plant/*'))
                         <div class="form-group">
                             <label for="share" class="control-label col-sm-2">Share:<strong style="color:darkred;">*</strong></label>
                             <div class="col-sm-10">	
@@ -57,6 +58,9 @@
                                 </select>
                             </div>
                         </div>
+                        @else
+                        <div></div>
+                        @endif
 
                         <div class="form-group">
                             <div class="col-md-6 col-md-offset-4">
